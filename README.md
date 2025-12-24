@@ -1,3 +1,5 @@
+Added database integration and live prediction.
+
 ### Project Overview
 
 This project aims to create an AI-driven system that interprets and translates sign language gestures in real-time using a webcam. The system makes education more accessible to deaf or hearing-impaired students by recognizing and converting sign language into readable text.
@@ -87,3 +89,4 @@ Then run the try.py file to capture the image and make predictions.
 
 
 "# SIH2024" 
+
